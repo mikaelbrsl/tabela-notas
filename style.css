@@ -1,0 +1,21 @@
+table {
+    width: 50%;
+    min-width: 300px;
+    margin: 50px auto;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    border-collapse: collapse;
+}
+
+.nome {
+    text-align: left;
+}
+
+td {
+    padding: 5px;
+    text-align: center;
+}
+
+.bg-azul {
+    background-color: rgb(240,248,255);
+}
